@@ -62,9 +62,9 @@
 }
 
 
-@media(max-width:743px){
+@media(max-width:746px){
     .container{
-        display: flex;
+        /* display: flex; */
         /* flex-wrap: wrap; */
         flex-direction: column;
         
