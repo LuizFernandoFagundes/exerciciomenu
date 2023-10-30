@@ -62,7 +62,7 @@
 }
 
 
-@media(max-width:768px){
+@media(max-width:700px){
     .container{
         display: flex;
         /* flex-wrap: wrap; */
